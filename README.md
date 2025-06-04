@@ -25,11 +25,13 @@ The actual interaction between the user and the chatbot takes place in the chat(
 Overall, this chatbot program serves as a basic introduction to building rule-based conversational agents in Python. While it lacks the complexity of AI-powered chatbots that use machine learning or deep learning, it is an effective way to demonstrate how simple keyword matching can be used to simulate dialogue. The inclusion of the spaCy model suggests potential for future development, such as using NLP techniques to enhance user input processing, improve intent recognition, or support more dynamic responses. For beginners, this code provides a clear foundation on which more advanced chatbot features can be built.
 
 
+*OUTPUT PHOTO* :
+
+![Image](https://github.com/user-attachments/assets/9f952a74-f89a-45d1-9db0-3e6325c3b5f6)
 
 *OUTPUT VIDEO* :
 
-
-*OUTPUT PHOTO* :
+https://github.com/user-attachments/assets/c5825c6c-cb20-46eb-b227-e94c36050deb
 
 
 
